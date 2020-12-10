@@ -1,0 +1,26 @@
+{
+  "id": "da8b036b-012b-4788-8535-45c47642c47a",
+  "name": "4dets",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "17.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://4dets.com/help/",
+  "showMyCode": true,
+  "runtime": "6.0"
+}
